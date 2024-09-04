@@ -18,7 +18,7 @@ const Navbar = () => {
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a
-          href="https://github.com/Shafin047"
+          href="https://www.linkedin.com/in/shafinhossain/"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 rounded-full hover:bg-purple-600 transition duration-200"
@@ -26,7 +26,7 @@ const Navbar = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://www.linkedin.com/in/shafinhossain/"
+          href="https://github.com/Shafin047"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 rounded-full hover:bg-purple-600 transition duration-200"
