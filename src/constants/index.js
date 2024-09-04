@@ -73,8 +73,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
-    liveDemo: "https://example.com/taskapp",
-    github: "https://github.com/yourusername/taskapp",
+    liveDemo: "https://shafin-hossain.vercel.app/",
+    github: "https://github.com/Shafin047/portfolio1",
   },
 ];
 
