@@ -25,7 +25,6 @@ const Hero = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const titles = [
     "Front-End Developer",
-    "MERN Stack Developer",
     "Developer",
     "Fast Learner",
   ];
