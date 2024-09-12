@@ -5,11 +5,13 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a dedicated Data analyst and Front-end developer with a strong focus on delivering actionable insights and exceptional user experiences. On the Data Analysis side, I excel in using tools like Python, SQL, Microsoft Office, Power Bi and Tableau to uncover trends and drive data-informed decisions. On the Front-end development side, I have honed my skills in technologies such as React and Next.js to build intuitive and scalable web applications. My goal is to leverage my expertise in both data analysis and front-end development to create innovative solutions that drive business growth and enhance user engagement.`;
 
-export const ABOUT_TEXT = `I am a versatile Data Analyst and Front-End Developer dedicated to combining analytical prowess with cutting-edge web development to drive business success. My background in data analysis encompasses a robust skill set with tools such as Python, SQL, Microsoft Office, Power BI, and Tableau. I excel in transforming complex data into clear, actionable insights that inform strategic decisions.
+export const ABOUT_TEXT = `
+I am a versatile Data Analyst and Front-End Developer dedicated to combining analytical prowess with cutting-edge web development to drive business success. My background in data analysis encompasses a robust skill set with tools such as Python, SQL, Microsoft Office, Power BI, and Tableau. I excel in transforming complex data into clear, actionable insights that inform strategic decisions.<br><br>
 
-<br>On the front-end development side, I am proficient in building dynamic and responsive web applications using React and Next.js. My approach is centered on creating intuitive user experiences that are both visually appealing and functionally robust.
+On the front-end development side, I am proficient in building dynamic and responsive web applications using React and Next.js. My approach is centered on creating intuitive user experiences that are both visually appealing and functionally robust.<br><br>
 
-<br>My passion lies in integrating data-driven insights with innovative web solutions to create impactful, user-centered designs. I aim to harness my dual expertise to deliver solutions that not only enhance business performance but also provide exceptional user engagement.`;
+My passion lies in integrating data-driven insights with innovative web solutions to create impactful, user-centered designs. I aim to harness my dual expertise to deliver solutions that not only enhance business performance but also provide exceptional user engagement.
+`;
 
 export const EXPERIENCES = [
   {
