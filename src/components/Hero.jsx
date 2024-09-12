@@ -24,6 +24,7 @@ const letter = {
 const Hero = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const titles = [
+    "Data Analyst",
     "Front-End Developer",
     "Developer",
     "Fast Learner",
