@@ -7,9 +7,9 @@ export const HERO_CONTENT = `I am a dedicated Data analyst and Front-end develop
 
 export const ABOUT_TEXT = `I am a versatile Data Analyst and Front-End Developer dedicated to combining analytical prowess with cutting-edge web development to drive business success. My background in data analysis encompasses a robust skill set with tools such as Python, SQL, Microsoft Office, Power BI, and Tableau. I excel in transforming complex data into clear, actionable insights that inform strategic decisions.
 
-<p>On the front-end development side, I am proficient in building dynamic and responsive web applications using React and Next.js. My approach is centered on creating intuitive user experiences that are both visually appealing and functionally robust.</p>
+<br>On the front-end development side, I am proficient in building dynamic and responsive web applications using React and Next.js. My approach is centered on creating intuitive user experiences that are both visually appealing and functionally robust.
 
-<p>My passion lies in integrating data-driven insights with innovative web solutions to create impactful, user-centered designs. I aim to harness my dual expertise to deliver solutions that not only enhance business performance but also provide exceptional user engagement.</p>`;
+<br>My passion lies in integrating data-driven insights with innovative web solutions to create impactful, user-centered designs. I aim to harness my dual expertise to deliver solutions that not only enhance business performance but also provide exceptional user engagement.`;
 
 export const EXPERIENCES = [
   {
