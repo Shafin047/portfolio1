@@ -42,7 +42,7 @@ const Navbar = () => {
           <FaFacebook />
         </a>
         <a
-          href="https://drive.google.com/file/d/1xS0dxOTdn83e3A9r4j8Uarb7ftPtSBuo/view"
+          href="https://drive.google.com/file/d/1wYHsi26DPPl2oc-3ODGED0_CT9E-4PQl/view"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 rounded-full hover:bg-purple-600 transition duration-200"
